@@ -16,3 +16,4 @@ The kind of output it produces looks like this:
 
 
 
+The actual song output at the end is mix.wav in the analyse-and-mix folder.
