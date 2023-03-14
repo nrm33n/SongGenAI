@@ -1,6 +1,6 @@
 # SongGenAI
 
-This is a pop music generator using transformer networks. It consists of 3 parts:  
+This is a pop music generator using transformer networks consisting of 3 parts:  
 * a lyric generator using the GPT-2 transformer model 
 * singing voice synthesis using the DiffSinger model with a HifiGan deep learning based vocoder translate control data and convert synthesis model into audio. 
 The specific vocoder used is by Kong, J., Kim, J., & Bae, J. from the 2020 paper Hifi-gan: Generative adversarial networks for efficient and high fidelity speech. 
